@@ -1,0 +1,211 @@
+
+@media (min-width: 576px){
+   /* BANNER */
+   .banner{
+    padding: 100px 0px 50px ;
+   }
+   
+   .banner-location{
+    padding-top: 30px;
+  }
+  .banner-title :nth-child(2){
+    font-size: 14vw;
+  }
+
+  /* ABOUT */
+  .about{
+    padding: 60px 0px;
+  }
+
+  .about-inner{
+    margin-top: 10px;
+    padding-top: 30px;
+  }
+
+  /* EDUCATION */
+  .education{
+    padding: 60px 0px;
+  }
+  #space-adjust{
+    width: 50% !important;
+  }
+
+  /* PROJECT */
+  .project-title h2{
+    font-size: 60px;
+    line-height: 49px;
+  }
+ 
+.project-rotate{
+  height: 50px;
+  overflow: hidden;
+  display: inline-block;
+  /* border: 1px solid #fff; */
+}
+
+  /* SKILL */
+  .skill{
+    padding: 60px 0px;
+   }
+
+
+}
+
+
+
+
+@media (min-width: 768px){
+
+    /* BANNER */
+   .banner{
+    padding: 100px 0px 50px ;
+   }
+   .banner-location{
+    padding-top: 30px;
+  }
+
+  .banner-title :nth-child(2){
+    font-size: 10vw;
+    font-weight: 600;
+  }
+
+   /* ABOUT */
+   .about{
+    padding: 60px 0px;
+  }
+  .about-inner{
+    margin-top: 10px;
+  }
+
+    /* EDUCATION */
+    .education{
+      padding: 60px 0px;
+    }
+    .education-title h2{
+      position: static;
+    }
+    #space-adjust{
+      width: 75% !important;
+    }
+
+      /* SKILL */
+  .skill{
+    padding: 60px 0px;
+   }
+
+
+}
+
+
+
+
+
+@media (min-width: 992px){
+    /* BANNER */
+    .banner{
+    padding: 170px 0px 70px;
+   }
+   .banner-location{
+    padding-top: 70px;
+  }
+
+   /* ABOUT */
+   .about{
+    padding: 90px 0px;
+  }
+  .about-inner{
+    margin-top: 10px;
+    padding-top: 50px;
+  }
+
+  /* EDUCATION */
+  .education{
+    padding: 90px 0px;
+  }
+
+  .education-title h2{
+    position: sticky;
+    top: 20%;
+    /* bottom: 20%; */
+  }
+  #space-adjust{
+    width: 50% !important;
+  }
+
+   /* PROJECT */
+   .project-title h2{
+    font-size: 60px;
+    line-height: 49px;
+  }
+ 
+.project-rotate{
+  height: 50px;
+  overflow: hidden;
+  display: inline-block;
+  /* border: 1px solid #fff; */
+}
+
+  /* SKILL */
+  .skill{
+    padding: 90px 0px;
+   }
+
+
+
+}
+
+
+
+
+@media (min-width: 1200px){
+    /* BANNER */
+    .banner{
+        padding: 170px 0px 70px;
+       }
+       .banner-location{
+        padding-top: 70px;
+      }
+    
+       /* ABOUT */
+       .about{
+        padding: 90px 0px;
+      }
+      .about-inner{
+        margin-top: 50px;
+        padding-top: 50px;
+      }
+
+      /* EDUCATION */
+    .education{
+     padding: 90px 0px;
+   }
+
+    .education-title h2{
+     position: sticky;
+     top: 20%;
+     /* bottom: 20%; */
+  }
+
+    /* PROJECT */
+    .project-title h2{
+      font-size: 5vw;
+      line-height: 4.6vw;
+    }
+
+    .project-rotate{
+      height: 62px;
+      overflow: hidden;
+      display: inline-block;
+    }
+
+   /* SKILL */
+  .skill{
+    padding: 90px 0px;
+   }
+
+
+
+
+
+
+}
